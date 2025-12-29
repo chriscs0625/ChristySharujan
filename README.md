@@ -336,7 +336,23 @@ mindmap
 </a>
 
 <!-- After header -->
-<img src="https://media.tenor.com/vE5NUkxgEJAAAAAM/spider-man3-web-swinging.gif" width="700">
+<!-- Replace your broken GIFs with these -->
+
+<!-- Header divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<!-- Section dividers -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<!-- Tech stack animations -->
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+<!-- Activity GIFs -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284081-55c9c1df-3552-4ca7-a6f0-1d986cc8cd1c.gif" width="600">
 
 
 </div>
