@@ -335,7 +335,7 @@ mindmap
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=D14836" />
 </a>
 
-<img src="https://media.giphy.com/media/4NvsxuQArv2ZHScVgC/giphy.gif" width="700">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5iNWR5d3BjaXJlMGNubDU5ajlmcGtwb29kMmZhcXcyc29vZmRndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aIY8ZCncOtgh35ftC/giphy.gif" width="700">
 
 </div>
 
