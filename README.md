@@ -1,238 +1,493 @@
-# 👋 Hi, I'm Christy Sharujan!
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Graphic+Designer+%E2%9C%A8;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views)
+# 🌌 WELCOME TO MY DIGITAL UNIVERSE 🌌
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHRISTY%20SHARUJAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer+%7C+Creative+Technologist;Transforming+Ideas+into+Digital+Reality+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-🎓 **BSc (Hons) Information Technology** student at **SLIIT**  
-💻 Specializing in **Front-End Development** and **UI/UX Design**  
-🎨 Professional **Graphic Designer** with proven impact (30% engagement boost!)  
-🌱 Currently diving deeper into **Webflow** and **Advanced React Patterns**  
-🔥 Passionate about **user-centered experiences** and **problem-solving**
-
-> *"I build responsive websites and craft digital experiences that blend aesthetics with functionality"*
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Full Stack Developer | Matrix Mantra
-**Sep 2025 - Present** · *4 months* · Full-time · Hybrid  
-Building scalable web applications with modern tech stack
-- 🛠️ ReactJS, Node.js, and 11+ cutting-edge technologies
-- 📍 Jaffna, Northern Province, Sri Lanka
-
-### 🔹 Graphic Designer | syntax9  
-**Feb 2025 - Aug 2025** · *7 months* · Part-time · Hybrid  
-Creating compelling visual identities and brand assets
-- 🎨 Adobe Creative Suite, Graphic Design & 5+ design skills
-- 📍 Jaffna, Northern Province, Sri Lanka
-
-### 🔹 Graphic Designer | Save a Life NGO
-**Jul 2023 - Jan 2024** · *7 months* · Part-time · Hybrid  
-**Impact:** Elevated brand presence and recognition
-- 📈 **Increased event engagement by 30%** through strategic branded assets
-- 🎯 Delivered creative social media visuals and posters that drove results
-- 🎨 Graphic Design, Graphic Design Software & 6+ design skills
-- 📍 Jaffna, Northern Province, Sri Lanka
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Back-End Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🎯 Featured Projects
-
-### 🍕 Food Delivery & Home Ordering System
-**Tech Stack:** PHP | MongoDB | HTML | CSS | JavaScript  
-Co-developed a full-stack food delivery platform with seamless user experience
-- 🚀 End-to-end order management system
-- 📦 Admin dashboard with real-time tracking
-- 🎨 Fully responsive design across all devices
-- ⚡ Optimized performance and fast load times
-
-### 👟 Nike Store Prototype
-**Tech Stack:** Figma | UI/UX Design  
-Designed a modern e-commerce experience with focus on user engagement
-- 🎨 High-fidelity mockups and interactive prototypes
-- 📱 Mobile-first responsive design approach
-- ✨ Smooth user flows and micro-interactions
-- 🎯 Conversion-optimized checkout process
-
-### 🌐 Responsive Web Projects
-**Tech Stack:** HTML | CSS | JavaScript | React | Tailwind CSS  
-Built multiple responsive websites with modern web technologies
-- ⚡ Lightning-fast performance with optimized code
-- 📱 Mobile-optimized interfaces and touch interactions
-- ♿ Accessibility-first design (WCAG compliant)
-- 🎨 Clean, modern UI with attention to detail
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+## 🎯 [ TRANSMISSION INITIALIZED ] 🎯
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     ██████╗ ██╗  ██╗██████╗ ██╗███████╗████████╗██╗   ██╗  ║
+║    ██╔════╝ ██║  ██║██╔══██╗██║██╔════╝╚══██╔══╝╚██╗ ██╔╝  ║
+║    ██║      ███████║██████╔╝██║███████╗   ██║    ╚████╔╝   ║
+║    ██║      ██╔══██║██╔══██╗██║╚════██║   ██║     ╚██╔╝    ║
+║    ╚██████╗ ██║  ██║██║  ██║██║███████║   ██║      ██║     ║
+║     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝      ╚═╝     ║
+║                                                              ║
+║              S H A R U J A N    [ ONLINE ]                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔮 [ SYSTEM IDENTIFICATION ]
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- 🔄 **Advanced React Patterns** - Hooks, Context API, Performance Optimization
-- 🎨 **Webflow** - No-code web design platform mastery
-- 🚀 **Modern UI/UX Trends** - Microinteractions, Animations, Design Systems
-- 📊 **State Management** - Redux, Zustand, React Query
-- ⚡ **Performance Optimization** - Core Web Vitals, Lighthouse scores
-
----
-
-## 💡 What I Bring to the Table
 
 ```javascript
 const christy = {
-  location: "Jaffna, Sri Lanka 🇱🇰",
-  education: "BSc (Hons) IT @ SLIIT",
+  status: "🟢 ACTIVE & AVAILABLE FOR OPPORTUNITIES",
+  location: "🇱🇰 Jaffna, Sri Lanka",
+  role: "Full Stack Developer & Creative Technologist",
   
-  code: {
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
-    backend: ["Node.js", "PHP", "MongoDB"],
-    currentlyLearning: ["Webflow", "Advanced React Patterns"]
+  currentMission: {
+    education: "BSc (Hons) IT @ SLIIT 🎓",
+    focus: ["Front-End Mastery", "UI/UX Innovation", "Design Systems"],
+    learning: ["Webflow", "Advanced React Patterns", "Motion Design"]
   },
   
-  design: {
-    tools: ["Figma", "Adobe Creative Suite"],
-    specialties: ["UI/UX Design", "Graphic Design", "Branding"],
-    achievement: "30% increase in event engagement through design 📈"
-  },
-  
-  softSkills: [
-    "Problem Solving",
-    "User-Centered Thinking",
-    "Team Collaboration",
-    "Continuous Learning"
-  ],
-  
-  lookingFor: "Front-End or Full-Stack internships where I can contribute and grow 🚀",
-  
-  funFact: "I turned creative assets into measurable business impact! 🎨📊"
+  impact: {
+    designEngagement: "+30% 📈",
+    projectsShipped: "10+ 🚀",
+    technologiesMastered: "15+ 💻"
+  }
 };
 ```
 
----
+</div>
 
-## 🎓 Education
-
-**🏛️ SLIIT (Sri Lanka Institute of Information Technology)**  
-📚 Bachelor's Degree, Information Technology  
-📅 *May 2023 - Present*  
-🎯 Specializing in Software Development with focus on AI/ML
-
-**🏫 Jaffna Hindu College**  
-🎓 Secondary Education
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
 
 ---
 
-## 🎯 Professional Highlights
-
-```
-✨ Full Stack Development Experience
-   └─ Building production-ready applications with modern tech
-
-📈 Proven Design Impact
-   └─ 30% engagement increase through strategic branded assets
-
-🎨 Multi-Disciplinary Skills
-   └─ Bridge between design and development
-
-🚀 Continuous Growth Mindset
-   └─ Always learning new technologies and best practices
-```
-
----
-
-## 📫 Let's Connect!
+## ⚡ [ TECH ARSENAL ] 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christy-sharujan-7b8407279)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/christysharujan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.sharujan_07)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/christycs07)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DLhnTTbXg/?mibextid=wwXIfr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharujan.save@gmail.com)
+### 🎨 FRONT-END PROTOCOLS
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+### ⚙️ BACK-END SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,mongodb,git,vscode&theme=dark" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+### 🎭 DESIGN SUITE
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" />
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+## 🚀 [ MISSION LOG // PROFESSIONAL EXPERIENCE ]
+
+<div align="center">
+
+```diff
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  🔷 FULL STACK DEVELOPER @ Matrix Mantra                  │
+│     └─ Sep 2025 → Present  [ ACTIVE DEPLOYMENT ]          │
+│     └─ Building scalable web applications                 │
+│     └─ Tech: ReactJS • Node.js • Modern Stack             │
+│     └─ Location: Jaffna, Sri Lanka (Hybrid)               │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  🎨 GRAPHIC DESIGNER @ syntax9                            │
+│     └─ Feb 2025 → Aug 2025  [ MISSION COMPLETE ]          │
+│     └─ Creating compelling visual identities              │
+│     └─ Tech: Adobe Suite • Design Systems                 │
+│     └─ Location: Jaffna, Sri Lanka (Hybrid)               │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  ✨ GRAPHIC DESIGNER @ Save a Life NGO                    │
+│     └─ Jul 2023 → Jan 2024  [ IMPACT ACHIEVED ]           │
+│     └─ 📈 INCREASED ENGAGEMENT BY 30%                     │
+│     └─ Delivered strategic branded assets                 │
+│     └─ Tech: Graphic Design • Social Media Visual         │
+│     └─ Location: Jaffna, Sri Lanka (Hybrid)               │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+</div>
+
+---
+
+## 💎 [ FEATURED PROJECTS // DEPLOYED SYSTEMS ]
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍕 Food Delivery Platform
+```yaml
+Status: ✅ Deployed
+Stack: 
+  - PHP
+  - MongoDB
+  - JavaScript
+  - Responsive Design
+  
+Features:
+  ⚡ Real-time order tracking
+  📦 Admin dashboard
+  🎨 Mobile-optimized UI
+  🔐 Secure authentication
+```
+
+</td>
+<td width="50%">
+
+### 👟 Nike Store UI/UX
+```yaml
+Status: ✅ Prototype Complete
+Stack:
+  - Figma
+  - UI/UX Design
+  - Prototyping
+  
+Features:
+  🎨 High-fidelity mockups
+  📱 Mobile-first design
+  ✨ Micro-interactions
+  🎯 Conversion-optimized
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 Responsive Web Portfolio
+```yaml
+Status: ✅ Live
+Stack:
+  - React
+  - Tailwind CSS
+  - Modern JS
+  
+Features:
+  ⚡ Lightning-fast
+  📱 Fully responsive
+  ♿ WCAG compliant
+  🎨 Modern UI/UX
+```
+
+</td>
+<td width="50%">
+
+### 🎨 Design System Library
+```yaml
+Status: 🔄 In Progress
+Stack:
+  - Figma Components
+  - Design Tokens
+  - Documentation
+  
+Features:
+  🧩 Reusable components
+  🎨 Brand consistency
+  📚 Documentation
+  🔄 Version controlled
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+---
+
+## 🎓 [ KNOWLEDGE BASE // CREDENTIALS ]
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🏛️  SLIIT                                             │
+│      Sri Lanka Institute of Information Technology      │
+│      ├─ BSc (Hons) Information Technology               │
+│      ├─ Specialization: Software Development            │
+│      └─ May 2023 → Present                              │
+│                                                         │
+│  🏫  Jaffna Hindu College                               │
+│      ├─ Secondary Education                             │
+│      └─ Foundation in Technology & Innovation           │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50a36ca-c5d7-43ed-9ba6-415a58f46c45.gif" width="400">
+</div>
+
+---
+
+## 🧠 [ CURRENT LEARNING PROTOCOLS ]
+
+<div align="center">
+
+| 🎯 Technology | 📊 Progress | 🔥 Priority |
+|--------------|-------------|-------------|
+| **Webflow** | ████████░░ 80% | 🔴 HIGH |
+| **Advanced React** | ███████░░░ 70% | 🔴 HIGH |
+| **Motion Design** | ██████░░░░ 60% | 🟡 MEDIUM |
+| **Design Systems** | ████████░░ 80% | 🔴 HIGH |
+| **Performance Opt** | █████░░░░░ 50% | 🟡 MEDIUM |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c33.gif" width="300">
 
 </div>
 
 ---
 
-## 🎯 Open To Opportunities
+## 🌟 [ CORE COMPETENCIES ]
 
-🔍 **Actively seeking:**
-- 💼 **Front-End Developer** internships and positions
-- 🚀 **Full-Stack Developer** roles
-- 🎨 **UI/UX Designer** opportunities
-- 🤝 **Collaborative projects** in web development and design
+<div align="center">
 
-> 💌 Feel free to reach out at **sharujan.save@gmail.com**  
-> 📱 Let's discuss how I can contribute to your team!
+```mermaid
+mindmap
+  root((CHRISTY<br/>SHARUJAN))
+    Development
+      Front-End
+        React
+        Tailwind CSS
+        JavaScript
+      Back-End
+        Node.js
+        PHP
+        MongoDB
+    Design
+      UI/UX
+        Figma
+        Prototyping
+        User Research
+      Graphics
+        Adobe Suite
+        Branding
+        Visual Design
+    Soft Skills
+      Problem Solving
+      Team Collaboration
+      Continuous Learning
+      Communication
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284126-409eef41-33f5-47d5-aa71-8858ae5a0a6d.gif" width="400">
+</div>
+
+---
+
+## 📡 [ COMMUNICATION CHANNELS ]
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/christy-sharujan-7b8407279">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=0077B5" />
+</a>
+<a href="https://www.kaggle.com/christysharujan">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&style=flat-square&labelColor=20BEFF" />
+</a>
+<a href="https://www.instagram.com/c.sharujan_07">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square&labelColor=E4405F" />
+</a>
+<a href="https://x.com/christycs07">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&style=flat-square&labelColor=000000" />
+</a>
+<a href="https://www.facebook.com/share/1DLhnTTbXg/?mibextid=wwXIfr">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square&labelColor=1877F2" />
+</a>
+<a href="mailto:sharujan.save@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=D14836" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="700">
+
+</div>
+
+---
+
+## 🎯 [ MISSION OBJECTIVES // OPEN TO OPPORTUNITIES ]
+
+<div align="center">
+
+```typescript
+interface OpportunityTargets {
+  roles: string[];
+  type: string[];
+  interests: string[];
+  availability: string;
+}
+
+const seeking: OpportunityTargets = {
+  roles: [
+    "💻 Front-End Developer",
+    "🚀 Full-Stack Developer", 
+    "🎨 UI/UX Designer",
+    "🌟 Creative Technologist"
+  ],
+  type: [
+    "Internships",
+    "Full-time Positions",
+    "Collaborative Projects",
+    "Freelance Opportunities"
+  ],
+  interests: [
+    "Modern Web Technologies",
+    "Design Systems",
+    "User Experience",
+    "Creative Development"
+  ],
+  availability: "🟢 IMMEDIATELY AVAILABLE"
+};
+```
+
+### 📬 Contact Protocol
+
+```
+📧 Primary: sharujan.save@gmail.com
+🔗 LinkedIn: /christy-sharujan-7b8407279
+💬 Let's build something extraordinary together!
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284151-9c22c7a0-ca42-4a96-950f-2db4f165a8f7.gif" width="400">
+</div>
+
+---
+
+## 💡 [ SYSTEM PHILOSOPHY ]
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  "Design is not just what it looks like and feels like.   ║
+║   Design is how it works."                                ║
+║                                        — Steve Jobs        ║
+║                                                            ║
+║  "Code is poetry written in logic."                       ║
+║                                        — Anonymous         ║
+║                                                            ║
+║  "First, solve the problem. Then, write the code."        ║
+║                                        — John Johnson      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284161-8f4f2b4b-4fdd-4441-a988-8fdf52b2a67d.gif" width="700">
+</div>
+
+---
+
+## 🚀 [ ACHIEVEMENT METRICS ]
+
+<div align="center">
+
+| 🎯 Metric | 📊 Value | 📈 Impact |
+|-----------|----------|-----------|
+| **Event Engagement** | +30% | 🔥🔥🔥 |
+| **Projects Delivered** | 10+ | ✅✅✅ |
+| **Technologies Mastered** | 15+ | 💪💪💪 |
+| **Design Assets Created** | 100+ | 🎨🎨🎨 |
+| **Code Commits** | 500+ | 💻💻💻 |
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284175-5e7a6c90-e6a4-42f9-9ce3-59cd5d9b9351.gif" width="500">
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 *"Good design is obvious. Great design is transparent."* – Joe Sparano
+## ⚡ [ POWER STATS ] ⚡
 
-### 🌟 *"Code is poetry written in logic."*
+```
+Coding Power:     ███████████████████░  95%
+Design Skills:    ██████████████████░░  90%
+Problem Solving:  ████████████████████  100%
+Team Work:        ███████████████████░  95%
+Learning Speed:   ████████████████████  100%
+```
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284081-55c9c1df-3552-4ca7-a6f0-1d986cc8cd1c.gif" width="600">
 
-**⭐ Thanks for visiting my profile! Let's build something amazing together! 🚀**
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 [ TRANSMISSION COMPLETE ] 🌟
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│     Thank you for visiting my digital universe! 🚀       │
+│                                                          │
+│     > Ready to collaborate?                              │
+│     > Have an exciting project?                          │
+│     > Want to build something amazing?                   │
+│                                                          │
+│     📧 Let's connect: sharujan.save@gmail.com           │
+│                                                          │
+│     Status: [●] ONLINE & READY TO CREATE                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+
+**⭐ If you find my work interesting, consider following! ⭐**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 🌌 *Building the Future, One Pixel & One Line of Code at a Time* 🌌
 
 </div>
