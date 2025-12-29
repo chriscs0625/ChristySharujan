@@ -336,8 +336,7 @@ mindmap
 </a>
 
 <!-- After header -->
-<img src="https://media.giphy.com/media/0aIY8ZCncOtgh35ftC/giphy.gif" width="700">
-
+<img src="https://media.tenor.com/vE5NUkxgEJAAAAAM/spider-man3-web-swinging.gif" width="700">
 
 
 </div>
