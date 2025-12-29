@@ -336,7 +336,7 @@ mindmap
 </a>
 
 <!-- After header -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5iNWR5d3BjaXJlMGNubDU5ajlmcGtwb29kMmZhcXcyc29vZmRndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aIY8ZCncOtgh35ftC/giphy.gif" width="700">
+<img src="https://media.giphy.com/media/0aIY8ZCncOtgh35ftC/giphy.gif" width="700">
 
 
 
