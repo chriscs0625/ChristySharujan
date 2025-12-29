@@ -340,18 +340,7 @@ mindmap
 
 <!-- Header divider -->
 <!-- Spider-Man swinging -->
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="700">
 
-<!-- Spider-Man thumbs up -->
-<img src="https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif" width="700">
-
-<!-- Spider-Man web shooting -->
-<img src="https://media.giphy.com/media/MCZ39lz83o5lC/giphy.gif" width="700">
-
-<!-- Miles Morales -->
-<img src="https://media.giphy.com/media/VTxmwaCEwSlZm/giphy.gif" width="700">
-
-<!-- Spider-Verse style -->
 <img src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" width="700">
 
 </div>
