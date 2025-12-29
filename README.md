@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🕷️ WITH GREAT CODE COMES GREAT RESPONSIBILITY 🕷️
+# 🌌 WELCOME TO MY DIGITAL UNIVERSE 🌌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,30&height=200&section=header&text=CHRISTY%20SHARUJAN&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Web%20Slinger&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHRISTY%20SHARUJAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%F0%9F%95%B8%EF%B8%8F+Your+Friendly+Neighborhood+Developer;%F0%9F%8C%86+Building+Web+Solutions+That+Stick;%F0%9F%92%BB+Swinging+Between+Frontend+%26+Backend;%E2%9A%A1+Powered+by+Coffee+and+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer+%7C+Creative+Technologist;Transforming+Ideas+into+Digital+Reality+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -14,22 +14,21 @@
 
 <div align="center">
 
-## 🕸️ [ WEB-SLINGER PROTOCOL: ACTIVE ] 🕸️
+## 🎯 [ TRANSMISSION INITIALIZED ] 🎯
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║     ███████╗██████╗ ██╗██████╗ ███████╗██████╗ ███╗   ███╗ █████╗║
-║     ██╔════╝██╔══██╗██║██╔══██╗██╔════╝██╔══██╗████╗ ████║██╔══██║
-║     ███████╗██████╔╝██║██║  ██║█████╗  ██████╔╝██╔████╔██║███████║
-║     ╚════██║██╔═══╝ ██║██║  ██║██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══██║
-║     ███████║██║     ██║██████╔╝███████╗██║  ██║██║ ╚═╝ ██║██║  ██║
-║     ╚══════╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-║                                                                   ║
-║              🕷️  C H R I S T Y   S H A R U J A N  🕷️             ║
-║                   [ SPIDER-SENSE: TINGLING ]                      ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     ██████╗ ██╗  ██╗██████╗ ██╗███████╗████████╗██╗   ██╗  ║
+║    ██╔════╝ ██║  ██║██╔══██╗██║██╔════╝╚══██╔══╝╚██╗ ██╔╝  ║
+║    ██║      ███████║██████╔╝██║███████╗   ██║    ╚████╔╝   ║
+║    ██║      ██╔══██║██╔══██╗██║╚════██║   ██║     ╚██╔╝    ║
+║    ╚██████╗ ██║  ██║██║  ██║██║███████║   ██║      ██║     ║
+║     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝      ╚═╝     ║
+║                                                              ║
+║              S H A R U J A N    [ ONLINE ]                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -38,310 +37,188 @@
 
 ---
 
-## 🎯 [ HERO IDENTIFICATION PROTOCOL ]
+## 🔮 [ SYSTEM IDENTIFICATION ]
 
 <div align="center">
 
 ```javascript
-const webSlinger = {
-  alias: "Christy Sharujan",
-  status: "🔴 ACTIVE & READY FOR ACTION",
-  location: "🇱🇰 Jaffna, Sri Lanka (Web-Slinging Zone)",
-  superpower: "Full Stack Development & Creative Technology",
-  motto: "With great code comes great responsibility",
+const christy = {
+  status: "🟢 ACTIVE & AVAILABLE FOR OPPORTUNITIES",
+  location: "🇱🇰 Jaffna, Sri Lanka",
+  role: "Full Stack Developer & Creative Technologist",
   
   currentMission: {
-    heroTraining: "BSc (Hons) IT @ SLIIT 🎓",
-    focusAreas: ["Frontend Mastery", "UI/UX Innovation", "Web Architecture"],
-    learningNew: ["Advanced React Patterns", "Webflow", "Motion Design"],
-    sideQuests: ["Building scalable apps", "Crafting pixel-perfect designs"]
+    education: "BSc (Hons) IT @ SLIIT 🎓",
+    focus: ["Front-End Mastery", "UI/UX Innovation", "Design Systems"],
+    learning: ["Webflow", "Advanced React Patterns", "Motion Design"]
   },
   
-  heroicAchievements: {
-    projectsDelivered: "10+ 🎯",
-    technologiesMastered: "15+ 💪",
+  impact: {
     designEngagement: "+30% 📈",
-    coffeeConsumed: "∞ ☕"
-  },
-  
-  spiderSense: function() {
-    return "Always detecting bugs before they happen! 🕷️";
+    projectsShipped: "10+ 🚀",
+    technologiesMastered: "15+ 💻"
   }
 };
-
-console.log(webSlinger.spiderSense());
-// Output: "Always detecting bugs before they happen! 🕷️"
 ```
 
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt5dGZ2dXR0Nm1xM3R5ZzF5cGI2enE2cHB4M3E5Znl5aHZ5YjR5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
-
-### 🕸️ *Just your friendly neighborhood developer, swinging through code!* 🕸️
-
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
 ---
 
-## ⚡ [ SPIDER-SUIT TECH STACK ] 
+## ⚡ [ TECH ARSENAL ] 
 
 <div align="center">
 
-### 🕸️ WEB-SLINGING TOOLS (Frontend)
+### 🎨 FRONT-END PROTOCOLS
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap,figma&theme=dark" />
-
-```
-HTML5 ████████████████████░ 95%  | Building solid foundations
-CSS3  ███████████████████░░ 90%  | Styling with precision
-JavaScript ██████████████████ 90%  | Making webs interactive
-React ████████████████████░ 92%  | Component architecture
-Tailwind ███████████████████ 88%  | Rapid UI development
-```
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
-### 🕷️ SPIDER-GADGETS (Backend)
+### ⚙️ BACK-END SYSTEMS
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,git,github,vscode&theme=dark" />
-
-```
-Node.js ███████████████████░ 85%  | Server-side superpowers
-PHP     ██████████████████░░ 82%  | Backend web-slinging
-MongoDB ████████████████████ 88%  | NoSQL mastery
-MySQL   ███████████████████░ 86%  | Relational databases
-Git     ████████████████████ 95%  | Version control hero
-```
+<img src="https://skillicons.dev/icons?i=nodejs,php,mongodb,git,vscode&theme=dark" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-### 🎨 DESIGN WEB-SHOOTERS
+### 🎭 DESIGN SUITE
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,blender&theme=dark" />
-
-```
-Figma      ████████████████████ 90%  | Prototyping wizard
-Photoshop  ███████████████████░ 88%  | Visual mastery
-Illustrator ██████████████████ 85%  | Vector graphics pro
-Adobe XD   ████████████████░░░░ 80%  | UX design
-```
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" />
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ---
 
-## 🦸 [ HERO'S JOURNEY // PROFESSIONAL MISSIONS ]
+## 🚀 [ MISSION LOG // PROFESSIONAL EXPERIENCE ]
 
 <div align="center">
 
 ```diff
-╭─────────────────────────────────────────────────────────────────╮
-│                                                                 │
-│  🕷️ FULL STACK DEVELOPER @ Matrix Mantra                       │
-│     ├─ 📅 Sep 2025 → Present  [ 🔴 CURRENTLY ACTIVE ]          │
-│     ├─ 🎯 Building enterprise-grade web solutions              │
-│     ├─ 💻 Tech Stack: React • Node.js • MongoDB • Modern APIs  │
-│     ├─ 🌟 Delivering scalable, maintainable code               │
-│     └─ 📍 Jaffna, Sri Lanka (Hybrid Mode)                      │
-│                                                                 │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  🎨 GRAPHIC DESIGNER @ syntax9                                  │
-│     ├─ 📅 Feb 2025 → Aug 2025  [ ✅ MISSION ACCOMPLISHED ]     │
-│     ├─ 🎯 Crafted compelling brand identities                  │
-│     ├─ 💻 Expertise: Adobe Creative Suite • UI/UX              │
-│     ├─ 🌟 Designed 50+ marketing assets                        │
-│     └─ 📍 Jaffna, Sri Lanka (Hybrid Mode)                      │
-│                                                                 │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ✨ GRAPHIC DESIGNER @ Save a Life NGO                          │
-│     ├─ 📅 Jul 2023 → Jan 2024  [ 🏆 HIGH IMPACT ACHIEVED ]    │
-│     ├─ 🎯 Social cause champion through design                 │
-│     ├─ 📈 BOOSTED ENGAGEMENT BY 30% 🚀                         │
-│     ├─ 🌟 Created 100+ impactful visual campaigns              │
-│     ├─ 💻 Tech: Photoshop • Illustrator • Social Media Design  │
-│     └─ 📍 Jaffna, Sri Lanka (Hybrid Mode)                      │
-│                                                                 │
-╰─────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  🔷 FULL STACK DEVELOPER @ Matrix Mantra                  │
+│     └─ Sep 2025 → Present  [ ACTIVE DEPLOYMENT ]          │
+│     └─ Building scalable web applications                 │
+│     └─ Tech: ReactJS • Node.js • Modern Stack             │
+│     └─ Location: Jaffna, Sri Lanka (Hybrid)               │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  🎨 GRAPHIC DESIGNER @ syntax9                            │
+│     └─ Feb 2025 → Aug 2025  [ MISSION COMPLETE ]          │
+│     └─ Creating compelling visual identities              │
+│     └─ Tech: Adobe Suite • Design Systems                 │
+│     └─ Location: Jaffna, Sri Lanka (Hybrid)               │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  ✨ GRAPHIC DESIGNER @ Save a Life NGO                    │
+│     └─ Jul 2023 → Jan 2024  [ IMPACT ACHIEVED ]           │
+│     └─ 📈 INCREASED ENGAGEMENT BY 30%                     │
+│     └─ Delivered strategic branded assets                 │
+│     └─ Tech: Graphic Design • Social Media Visual         │
+│     └─ Location: Jaffna, Sri Lanka (Hybrid)               │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxrb2RmNzh3cjBxeWN3YzV1eGM2d2JzYmtoN3E5ZXZzd3FlcGwyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 </div>
 
 ---
 
-## 🕸️ [ WEB-PROJECTS // HEROIC BUILDS ]
-
-<div align="center">
+## 💎 [ FEATURED PROJECTS // DEPLOYED SYSTEMS ]
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🍕 Food Delivery Platform
-**Mission Status:** ✅ **DEPLOYED**
-
 ```yaml
-🕷️ Spider-Tech Used:
-  Frontend: HTML5, CSS3, JavaScript
-  Backend: PHP, MongoDB
-  Features: 
-    ⚡ Real-time tracking
-    🔐 Secure auth system
-    📱 Mobile responsive
-    👨‍💼 Admin dashboard
-    
-🎯 Impact:
-  - Smooth user experience
-  - Fast order processing
-  - Scalable architecture
+Status: ✅ Deployed
+Stack: 
+  - PHP
+  - MongoDB
+  - JavaScript
+  - Responsive Design
+  
+Features:
+  ⚡ Real-time order tracking
+  📦 Admin dashboard
+  🎨 Mobile-optimized UI
+  🔐 Secure authentication
 ```
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 👟 Nike Store UI/UX
-**Mission Status:** ✅ **PROTOTYPE READY**
-
 ```yaml
-🎨 Design Arsenal:
-  Tools: Figma, Adobe XD
-  Type: E-commerce Design
-  Features:
-    ✨ High-fidelity mockups
-    📱 Mobile-first approach
-    🎯 Conversion-optimized
-    🔄 Interactive prototype
-    
-🌟 Highlights:
-  - Modern aesthetics
-  - Intuitive navigation
-  - Brand consistency
+Status: ✅ Prototype Complete
+Stack:
+  - Figma
+  - UI/UX Design
+  - Prototyping
+  
+Features:
+  🎨 High-fidelity mockups
+  📱 Mobile-first design
+  ✨ Micro-interactions
+  🎯 Conversion-optimized
 ```
-
-<img src="https://img.shields.io/badge/Status-Prototype-blue?style=for-the-badge&logo=figma&logoColor=white" />
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🌐 Portfolio Website
-**Mission Status:** ✅ **LIVE & SWINGING**
-
+### 🌐 Responsive Web Portfolio
 ```yaml
-⚡ Power Stack:
-  Framework: React
-  Styling: Tailwind CSS
-  Deployment: Netlify
-  Features:
-    🚀 Lightning-fast
-    📱 Fully responsive
-    ♿ WCAG compliant
-    🎨 Modern animations
-    
-💡 Tech Highlights:
-  - Component-based
-  - SEO optimized
-  - Performance: 95+
+Status: ✅ Live
+Stack:
+  - React
+  - Tailwind CSS
+  - Modern JS
+  
+Features:
+  ⚡ Lightning-fast
+  📱 Fully responsive
+  ♿ WCAG compliant
+  🎨 Modern UI/UX
 ```
 
-<img src="https://img.shields.io/badge/Performance-95+-brightgreen?style=for-the-badge&logo=lighthouse&logoColor=white" />
-
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎨 Design System Library
-**Mission Status:** 🔄 **IN PROGRESS**
-
 ```yaml
-🧩 System Components:
-  Platform: Figma
-  Type: Design Tokens
-  Features:
-    🎨 Reusable components
-    📚 Documentation
-    🔄 Version control
-    🌈 Color system
-    
-🎯 Goals:
-  - Brand consistency
-  - Faster development
-  - Scalable design
+Status: 🔄 In Progress
+Stack:
+  - Figma Components
+  - Design Tokens
+  - Documentation
+  
+Features:
+  🧩 Reusable components
+  🎨 Brand consistency
+  📚 Documentation
+  🔄 Version controlled
 ```
-
-<img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge&logo=figma&logoColor=white" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Interactive Web Game
-**Mission Status:** 🚀 **LAUNCHING SOON**
-
-```yaml
-🕹️ Game Tech:
-  Engine: JavaScript Canvas
-  Physics: Custom engine
-  Design: Pixel art style
-  Features:
-    🎯 Score tracking
-    🏆 Leaderboard
-    🎨 Smooth animations
-    📱 Touch controls
-    
-⚡ Performance:
-  - 60 FPS gameplay
-  - Responsive design
-  - Low latency
-```
-
-<img src="https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge&logo=gamepad&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Data Visualization Dashboard
-**Mission Status:** 🔄 **DEVELOPMENT**
-
-```yaml
-📈 Data Powers:
-  Frontend: React + D3.js
-  Backend: Node.js + Express
-  Database: MongoDB
-  Features:
-    📊 Real-time charts
-    🔍 Advanced filters
-    📥 Export options
-    🎨 Custom themes
-    
-🌟 Capabilities:
-  - Interactive graphs
-  - Live data updates
-  - Mobile optimized
-```
-
-<img src="https://img.shields.io/badge/Status-70%25-blue?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -349,160 +226,230 @@ Adobe XD   ████████████████░░░░ 80%  | U
 
 ---
 
-## 🎓 [ TRAINING GROUNDS // HERO ACADEMY ]
+## 🎓 [ KNOWLEDGE BASE // CREDENTIALS ]
 
 <div align="center">
 
 ```
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  🏛️  SRI LANKA INSTITUTE OF INFORMATION TECHNOLOGY (SLIIT)  │
-│      ├─ 🎓 BSc (Hons) Information Technology                 │
-│      ├─ 🎯 Specialization: Full Stack Development            │
-│      ├─ 📅 May 2023 → Present                                │
-│      ├─ 🌟 Focus: Modern Web Technologies & Design           │
-│      └─ 📍 Sri Lanka's Premier IT Institution                │
-│                                                               │
-│  🏫  JAFFNA HINDU COLLEGE                                     │
-│      ├─ 📚 Secondary Education Excellence                    │
-│      ├─ 🎯 Foundation in Technology & Science                │
-│      ├─ 🌟 Developed problem-solving mindset                 │
-│      └─ 💡 Sparked passion for innovation                    │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🏛️  SLIIT                                             │
+│      Sri Lanka Institute of Information Technology      │
+│      ├─ BSc (Hons) Information Technology               │
+│      ├─ Specialization: Software Development            │
+│      └─ May 2023 → Present                              │
+│                                                         │
+│  🏫  Jaffna Hindu College                               │
+│      ├─ Secondary Education                             │
+│      └─ Foundation in Technology & Innovation           │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50a36ca-c5d7-43ed-9ba6-415a58f46c45.gif" width="400">
-
 </div>
 
 ---
 
-## 🧠 [ POWER-UP PROGRESS // TRAINING MONTAGE ]
+## 🧠 [ CURRENT LEARNING PROTOCOLS ]
 
 <div align="center">
 
-### 🎯 Current Skill Development
+| 🎯 Technology | 📊 Progress | 🔥 Priority |
+|--------------|-------------|-------------|
+| **Webflow** | ████████░░ 80% | 🔴 HIGH |
+| **Advanced React** | ███████░░░ 70% | 🔴 HIGH |
+| **Motion Design** | ██████░░░░ 60% | 🟡 MEDIUM |
+| **Design Systems** | ████████░░ 80% | 🔴 HIGH |
+| **Performance Opt** | █████░░░░░ 50% | 🟡 MEDIUM |
 
-| 🕷️ Technology | 📊 Power Level | 🔥 Priority | 🎯 Mission |
-|--------------|----------------|-------------|-----------|
-| **Webflow** | ████████░░ 80% | 🔴 CRITICAL | Master no-code development |
-| **Advanced React** | ███████░░░ 70% | 🔴 CRITICAL | Custom hooks & patterns |
-| **Motion Design** | ██████░░░░ 60% | 🟡 HIGH | GSAP & Framer Motion |
-| **Design Systems** | ████████░░ 80% | 🔴 CRITICAL | Component libraries |
-| **TypeScript** | █████░░░░░ 50% | 🟡 HIGH | Type-safe development |
-| **Next.js** | ██████░░░░ 60% | 🟠 MEDIUM | SSR & SSG mastery |
-| **Web3 & Blockchain** | ███░░░░░░░ 30% | 🟢 LEARNING | Future technologies |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c33.gif" width="400">
-
-### 📈 Skill Progression Map
-
-```
-Beginner ─────▶ Intermediate ─────▶ Advanced ─────▶ Expert ─────▶ Master
-                                                            ↑
-                                                    You are here! 🕷️
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c33.gif" width="300">
 
 </div>
 
 ---
 
-## 🎨 [ SUPERHERO SKILL MATRIX ]
+## 🌟 [ CORE COMPETENCIES ]
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((🕷️ CHRISTY<br/>SHARUJAN))
-    💻 Web Development
-      Frontend Mastery
-        React Ecosystem
-        Modern CSS
-        JavaScript ES6+
-        Responsive Design
-      Backend Powers
-        Node.js APIs
-        Database Design
-        PHP Development
-        RESTful Services
-    🎨 Design Universe
-      UI/UX Design
-        Figma Wizardry
-        User Research
+  root((CHRISTY<br/>SHARUJAN))
+    Development
+      Front-End
+        React
+        Tailwind CSS
+        JavaScript
+      Back-End
+        Node.js
+        PHP
+        MongoDB
+    Design
+      UI/UX
+        Figma
         Prototyping
-        Design Systems
-      Visual Arts
-        Adobe Creative Suite
-        Brand Identity
-        Digital Illustration
-        Motion Graphics
-    🚀 Soft Powers
+        User Research
+      Graphics
+        Adobe Suite
+        Branding
+        Visual Design
+    Soft Skills
       Problem Solving
-        Analytical Thinking
-        Creative Solutions
-        Debug Mastery
-      Collaboration
-        Team Leadership
-        Communication
-        Agile Methods
-      Growth Mindset
-        Continuous Learning
-        Adaptability
-        Innovation
+      Team Collaboration
+      Continuous Learning
+      Communication
 ```
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284126-409eef41-33f5-47d5-aa71-8858ae5a0a6d.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284126-409eef41-33f5-47d5-aa71-8858ae5a0a6d.gif" width="400">
 </div>
 
 ---
 
-## 📊 [ HERO STATISTICS // GITHUB METRICS ]
+## 📡 [ COMMUNICATION CHANNELS ]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="49%" />
+<a href="https://www.linkedin.com/in/christy-sharujan-7b8407279">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=0077B5" />
+</a>
+<a href="https://www.kaggle.com/christysharujan">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&style=flat-square&labelColor=20BEFF" />
+</a>
+<a href="https://www.instagram.com/c.sharujan_07">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square&labelColor=E4405F" />
+</a>
+<a href="https://x.com/christycs07">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&style=flat-square&labelColor=000000" />
+</a>
+<a href="https://www.facebook.com/share/1DLhnTTbXg/?mibextid=wwXIfr">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square&labelColor=1877F2" />
+</a>
+<a href="mailto:sharujan.save@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=D14836" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="49%" />
-
-### 🏆 Achievement Unlocked!
-
-| 🎯 Metric | 📊 Score | 🔥 Rank |
-|-----------|----------|---------|
-| **Event Engagement** | +30% 📈 | 🥇 S-Tier |
-| **Projects Shipped** | 10+ ✅ | 🥇 S-Tier |
-| **Tech Stack Size** | 15+ 💪 | 🥇 S-Tier |
-| **Design Assets** | 100+ 🎨 | 🥇 S-Tier |
-| **Code Commits** | 500+ 💻 | 🥇 S-Tier |
-| **Coffee Consumed** | ∞ ☕ | 🏆 MAX |
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="700">
 
 </div>
 
 ---
 
-## 🕷️ [ SPIDER-SENSE // LIVE ACTIVITY ]
+## 🎯 [ MISSION OBJECTIVES // OPEN TO OPPORTUNITIES ]
+
+<div align="center">
+
+```typescript
+interface OpportunityTargets {
+  roles: string[];
+  type: string[];
+  interests: string[];
+  availability: string;
+}
+
+const seeking: OpportunityTargets = {
+  roles: [
+    "💻 Front-End Developer",
+    "🚀 Full-Stack Developer", 
+    "🎨 UI/UX Designer",
+    "🌟 Creative Technologist"
+  ],
+  type: [
+    "Internships",
+    "Full-time Positions",
+    "Collaborative Projects",
+    "Freelance Opportunities"
+  ],
+  interests: [
+    "Modern Web Technologies",
+    "Design Systems",
+    "User Experience",
+    "Creative Development"
+  ],
+  availability: "🟢 IMMEDIATELY AVAILABLE"
+};
+```
+
+### 📬 Contact Protocol
+
+```
+📧 Primary: sharujan.save@gmail.com
+🔗 LinkedIn: /christy-sharujan-7b8407279
+💬 Let's build something extraordinary together!
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284151-9c22c7a0-ca42-4a96-950f-2db4f165a8f7.gif" width="400">
+</div>
+
+---
+
+## 💡 [ SYSTEM PHILOSOPHY ]
 
 <div align="center">
 
 ```
-⚡ CURRENTLY ACTIVE ON:
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  "Design is not just what it looks like and feels like.   ║
+║   Design is how it works."                                ║
+║                                        — Steve Jobs        ║
+║                                                            ║
+║  "Code is poetry written in logic."                       ║
+║                                        — Anonymous         ║
+║                                                            ║
+║  "First, solve the problem. Then, write the code."        ║
+║                                        — John Johnson      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-🔴 Web Development    ███████████████████░  95% 
-🔴 UI/UX Design       ██████████████████░░  90%
-🟡 Learning New Tech  ████████████████░░░░  80%
-🟢 Open Source        ██████████░░░░░░░░░░  50%
-🔵 Side Projects      ███████████████░░░░░  75%
+</div>
 
-╔════════════════════════════════════════════╗
-║  🕷️ SPIDER-SENSE: ALWAYS ACTIVE           ║
-║  🎯 Mission Focus: FULL STACK MASTERY      ║
-║  ⚡ Energy Level: MAXIMUM                  ║
-║  🔥 Motivation: UNSTOPPABLE                ║
-╚════════════════════════════════════════════╝
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284161-8f4f2b4b-4fdd-4441-a988-8fdf52b2a67d.gif" width="700">
+</div>
+
+---
+
+## 🚀 [ ACHIEVEMENT METRICS ]
+
+<div align="center">
+
+| 🎯 Metric | 📊 Value | 📈 Impact |
+|-----------|----------|-----------|
+| **Event Engagement** | +30% | 🔥🔥🔥 |
+| **Projects Delivered** | 10+ | ✅✅✅ |
+| **Technologies Mastered** | 15+ | 💪💪💪 |
+| **Design Assets Created** | 100+ | 🎨🎨🎨 |
+| **Code Commits** | 500+ | 💻💻💻 |
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284175-5e7a6c90-e6a4-42f9-9ce3-59cd5d9b9351.gif" width="500">
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ [ POWER STATS ] ⚡
+
+```
+Coding Power:     ███████████████████░  95%
+Design Skills:    ██████████████████░░  90%
+Problem Solving:  ████████████████████  100%
+Team Work:        ███████████████████░  95%
+Learning Speed:   ████████████████████  100%
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284081-55c9c1df-3552-4ca7-a6f0-1d986cc8cd1c.gif" width="600">
@@ -511,278 +458,36 @@ mindmap
 
 ---
 
-## 📡 [ COMMUNICATION WEB // CONNECT WITH ME ]
-
 <div align="center">
 
-### 🕸️ Choose Your Connection Method
-
-<a href="https://www.linkedin.com/in/christy-sharujan-7b8407279">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sharujan.save@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/c.sharujan_07">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://x.com/christycs07">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/share/1DLhnTTbXg/?mibextid=wwXIfr">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/christysharujan">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-### 📬 Direct Communication Protocol
-
-```javascript
-const contactMe = {
-  email: "sharujan.save@gmail.com",
-  linkedin: "/christy-sharujan-7b8407279",
-  response_time: "⚡ Lightning Fast",
-  availability: "🟢 Always Open to Opportunities",
-  
-  sendMessage: function(subject, message) {
-    return `✅ Message received! I'll swing back to you ASAP! 🕷️`;
-  }
-};
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="700">
-
-</div>
-
----
-
-## 🎯 [ MISSION OBJECTIVES // SEEKING OPPORTUNITIES ]
-
-<div align="center">
-
-```typescript
-interface HeroicOpportunities {
-  seeking: string[];
-  workType: string[];
-  superpowers: string[];
-  availability: string;
-  motivation: string;
-}
-
-const christySharu: HeroicOpportunities = {
-  seeking: [
-    "🕷️ Full-Stack Developer Roles",
-    "🎨 UI/UX Designer Positions",
-    "⚡ Frontend Developer (React Specialist)",
-    "🚀 Creative Technologist",
-    "💡 Innovative Startup Teams"
-  ],
-  
-  workType: [
-    "💼 Full-time Positions",
-    "🎓 Internship Programs",
-    "🤝 Collaborative Projects",
-    "💻 Freelance Opportunities",
-    "🌍 Remote Work"
-  ],
-  
-  superpowers: [
-    "Modern Web Technologies (React, Node.js)",
-    "Responsive & Accessible Design",
-    "UI/UX Best Practices",
-    "Problem-solving & Innovation",
-    "Fast Learning & Adaptation"
-  ],
-  
-  availability: "🟢 IMMEDIATELY AVAILABLE",
-  motivation: "Ready to build amazing things together! 🚀"
-};
-
-// Ready to collaborate?
-console.log("Let's create something extraordinary! 🕷️");
-```
-
-### 🌟 What I Bring to Your Team
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💻 Technical Excellence
-- Modern tech stack mastery
-- Clean, maintainable code
-- Best practices & patterns
-- Performance optimization
-
-</td>
-<td align="center" width="33%">
-
-### 🎨 Design Thinking
-- User-centered approach
-- Pixel-perfect execution
-- Brand consistency
-- Creative problem-solving
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 Team Player
-- Clear communication
-- Agile methodology
-- Collaborative mindset
-- Continuous improvement
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284151-9c22c7a0-ca42-4a96-950f-2db4f165a8f7.gif" width="500">
-</div>
-
----
-
-## 💭 [ HERO'S PHILOSOPHY ]
-
-<div align="center">
+## 🌟 [ TRANSMISSION COMPLETE ] 🌟
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  "With great code comes great responsibility."                  ║
-║                                  — Spider-Dev Wisdom 🕷️         ║
-║                                                                  ║
-║  "The best error message is the one that never shows up."       ║
-║                                  — Thomas Fuchs                  ║
-║                                                                  ║
-║  "First, solve the problem. Then, write the code."              ║
-║                                  — John Johnson                  ║
-║                                                                  ║
-║  "Design is not just what it looks like and feels like.         ║
-║   Design is how it works."                                      ║
-║                                  — Steve Jobs                    ║
-║                                                                  ║
-║  "The only way to do great work is to love what you do."        ║
-║                                  — Steve Jobs                    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│     Thank you for visiting my digital universe! 🚀       │
+│                                                          │
+│     > Ready to collaborate?                              │
+│     > Have an exciting project?                          │
+│     > Want to build something amazing?                   │
+│                                                          │
+│     📧 Let's connect: sharujan.save@gmail.com           │
+│                                                          │
+│     Status: [●] ONLINE & READY TO CREATE                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxemZkN2FxYnN3azNqM2o5OGQwaWZ6NHJ5d2o1eXNzOXg2OW03MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCZ39lz83o5lC/giphy.gif" width="500">
-
-</div>
-
----
-
-## 🌟 [ FINAL STATS // POWER LEVELS ]
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                    🕷️ HERO POWER LEVELS 🕷️               ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  Web-Slinging (Coding):     ████████████████████░  95%    ║
-║  Spider-Sense (Debugging):  ████████████████████░  95%    ║
-║  Wall-Crawling (Design):    ██████████████████░░  90%    ║
-║  Web-Shooters (Tools):      ███████████████████░  93%    ║
-║  Agility (Problem-Solving): ████████████████████  100%   ║
-║  Strength (Teamwork):       ███████████████████░  95%    ║
-║  Intelligence (Learning):   ████████████████████  100%   ║
-║  Responsibility (Ethics):   ████████████████████  100%   ║
-║                                                            ║
-║  ⚡ OVERALL HERO RATING: S+ TIER ⚡                        ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-### 🏆 Achievement Badges Collected
-
-<img src="https://img.shields.io/badge/Web%20Slinger-Pro-red?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Master-Advanced-blue?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Design%20Hero-Expert-purple?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem%20Solver-Elite-green?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Team%20Player-Legendary-orange?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284175-5e7a6c90-e6a4-42f9-9ce3-59cd5d9b9351.gif" width="600">
-</div>
-
----
-
-## 🎮 [ INTERACTIVE ZONE ]
-
-<div align="center">
-
-### 🕹️ Choose Your Action
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  [1] 📧 Send a Message      → sharujan.save@gmail.com    ║
-║  [2] 🤝 Connect on LinkedIn → Click Profile Link         ║
-║  [3] 👀 View My Work        → Check Projects Above       ║
-║  [4] ⭐ Star This Profile   → Show Some Love!            ║
-║  [5] 🔄 Share This          → Spread the Word            ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-### 📊 Profile Analytics
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=red&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=red&logo=github)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=red&logo=github)
-
-</div>
-
----
-
-<div align="center">
-
-## 🕷️ [ WEB TRANSMISSION COMPLETE ] 🕷️
-
-```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│     🕷️ Thank you for visiting my digital web! 🕷️             │
-│                                                                │
-│     > Need a developer who swings into action?                 │
-│     > Looking for creative solutions?                          │
-│     > Want to build something amazing?                         │
-│                                                                │
-│     📧 Contact: sharujan.save@gmail.com                       │
-│                                                                │
-│     Status: [🔴] ONLINE & READY FOR MISSIONS                  │
-│                                                                │
-│     "Remember: With great code comes great responsibility!"    │
-│                                                 — Spider-Dev 🕷️│
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,30&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJxNGt6bWZ3bXBwMjBvY3oyb2xmbWh1NmtzNWVtdWZ1MTloZHZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTxmwaCEwSlZm/giphy.gif" width="200">
-
-### 🌌 *Your Friendly Neighborhood Developer* 🌌
-### 🕷️ *Building the Web, One Line of Code at a Time* 🕷️
-
----
-
-**⭐ If you find my work amazing, consider starring and following! ⭐**
+**⭐ If you find my work interesting, consider following! ⭐**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 🌌 *Building the Future, One Pixel & One Line of Code at a Time* 🌌
 
 </div>
